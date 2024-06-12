@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742947106330",
+    "project_id": "database-e449e",
+    "storage_bucket": "database-e449e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742947106330:android:97efdc5cab93487ab62ba3",
+        "android_client_info": {
+          "package_name": "com.example.ej8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJLnbrekVmOV_Z4d4yysjY7cOO8qlzuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
